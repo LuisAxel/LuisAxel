@@ -15,6 +15,8 @@
 - 🎥 [Base de Datos para Streaming](https://github.com/LuisAxel/NetMAX): Diseñé y desarrollé una base de datos distribuida utilizando contenedores y pluggable databases. Cuenta con transparencia de localización, distribución y soporta el manejo de archivos binarios.
 - 🎨 [Análisis de Emociones en Arte del Romanticismo](https://github.com/Andrea585976/ArtEmis-ProyectoPLN): Implementé un modelo basado en transformers para generar descripciones centrándose en las emociones e impresiones evocadas en los espectadores en lugar de descripciones objetivas. 
 - 💻 [Base de Datos con Persistencia Políglota](https://github.com/LuisAxel/PolyglotDBWebApp): Diseñé la arquitectura de un sistema con persistencia políglota para optimizar el rendimiento, escalabilidad y mantenimiento. También desarrollé el backend en Node.js/Express.js, integrando múltiples bases de datos para funciones especializadas.
+## Proyecto más reciente
+- 📑 [Análisis de Textos Generados con IA](https://github.com/LuisAxel/AI-Generated-Text-Catcher): Capturé, procecé, implementé y entrené un modelo basado en transformers (DistilBERT) con la finalidad de auxiliar a los profesores de inglés a identificar ensayos y otros deberes que han sido generados por modelos de IA.
 ## Mis Lenguajes de Programación y Programas Favoritos 
 Aquí están algunos de los lenguajes de programación y programas que manejo y que puedes encontrar en mis proyectos: 
 - 💻 C/C++
