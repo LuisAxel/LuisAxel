@@ -132,6 +132,6 @@ Aquí están algunos de los lenguajes de programación y herramientas con los qu
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:  
 - 📧 Correo Electrónico: [axelnunez5@gmail.com](mailto:axelnunez5@gmail.com)
 - 📞 Teléfono: [+52 55 8060-7025](tel:+525580607025)
-- 🔗 LinkedIn: [in/luis-axel-núñez-quintana](https://www.linkedin.com/in/luis-axel/)
+- 🔗 LinkedIn: [in/luis-axel-núñez-quintana](https://www.linkedin.com/in/luis-axel/?locale=es_ES)
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos, y espero colaborar en el emocionante campo de la ingeniería en computación. 😊
