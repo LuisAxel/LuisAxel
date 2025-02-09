@@ -64,7 +64,7 @@ Here are some of the programming languages and tools I work with, you can find t
 If you have any questions or suggestions feel free to contact me:  
 - 📧 Email: [axelnunez5@gmail.com](mailto:axelnunez5@gmail.com)
 - 📞 Phone: [+52 55 8060-7025](tel:+525580607025)
-- 🔗 LinkedIn: [in/luis-axel-núñez-quintana](www.linkedin.com/in/luis-axelnunez)
+- 🔗 LinkedIn: [in/luis-axel-núñez-quintana](https://www.linkedin.com/in/luis-axel/)
 
 Thanks for visiting my GitHub profile! I hope you find my projects interesting, and I look forward to collaborating in the exciting field of computer engineering. 😊
 
@@ -132,6 +132,6 @@ Aquí están algunos de los lenguajes de programación y herramientas con los qu
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:  
 - 📧 Correo Electrónico: [axelnunez5@gmail.com](mailto:axelnunez5@gmail.com)
 - 📞 Teléfono: [+52 55 8060-7025](tel:+525580607025)
-- 🔗 LinkedIn: [in/luis-axel-núñez-quintana](www.linkedin.com/in/luis-axelnunez)
+- 🔗 LinkedIn: [in/luis-axel-núñez-quintana](https://www.linkedin.com/in/luis-axel/)
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos, y espero colaborar en el emocionante campo de la ingeniería en computación. 😊
